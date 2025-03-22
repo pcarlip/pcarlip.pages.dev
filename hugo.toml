@@ -6,3 +6,6 @@ theme = 'hugo-arcana'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
