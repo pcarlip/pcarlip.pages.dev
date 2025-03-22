@@ -8,7 +8,7 @@ weight: 80
 ### Computational Models of Signaling Networks
 
 My work immediately before joining OSU was as a postgraduate associate in the
-["https://www.stiteslab.org/"](Stites lab) at the Yale School of
+[https://www.stiteslab.org/](Stites lab) at the Yale School of
 Medicine. My work there has focused on modeling cell signaling networks,
 particularly aspects of the Ras-MAPK pathway. I use ODE and equilibrium
 models, primarily written in Python and Matlab, as well as rule-based models
