@@ -2,7 +2,6 @@ baseURL = 'https://pcarlip.github.io/'
 languageCode = 'en-us'
 title = 'Peter Carlip'
 theme = 'compose'
-logo = '/images/Waves_AVE.png'
 
 [caches]
   [caches.images]
@@ -20,7 +19,11 @@ logo = '/images/Waves_AVE.png'
 
 [params]
   math = true
-
+  #author = "Peter Carlip"
+  enableCopyright = false
+  [params.logo]
+    lightMode = "images/Waves_AVE.png"
+    darkMode = "images/Waves_AVE.png" 
 [outputs]
   home = ["HTML", "RSS","JSON"]
 

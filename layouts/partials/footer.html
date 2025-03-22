@@ -1,0 +1,21 @@
+<footer class="footer">
+    <div class="container">
+        <div class="footer_inner">
+            {{ with .Site.Params.footer }}
+            <div class="footer_item">{{ .text | markdownify }}</div>
+            {{ end }}
+            <div class="footer_item">
+                <p>&copy; <span class="year">{{ now.Year }}</span> Peter Carlip</p>
+                <p>
+                    (Favicon and logo by
+                    <a href="https://commons.wikimedia.org/wiki/File:Waves_AVE.png"
+                        >AVE Waves</a
+                    >,
+                    <a href="https://creativecommons.org/licenses/by-sa/4.0/"
+                        >CC-BY-SA 4.0</a
+                    >)
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
