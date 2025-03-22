@@ -1,7 +1,6 @@
 ---
 title: "Cell Signaling"
 menu: main
-description: "Stites Lab"
 weight: 30
 ---
 

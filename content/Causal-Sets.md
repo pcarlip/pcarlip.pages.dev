@@ -1,7 +1,6 @@
 ---
 title: "Causal Sets"
 menu: main
-description: "Combinatorics Applied to Physics"
 weight: 40
 math: true
 ---
