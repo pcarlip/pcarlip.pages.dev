@@ -19,6 +19,8 @@ theme = 'compose'
 
 [params]
   math = true
+  #author = "Peter Carlip"
+  enableCopyright = false
   [params.logo]
     lightMode = "images/Waves_AVE.png"
     darkMode = "images/Waves_AVE.png" 
