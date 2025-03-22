@@ -1,7 +1,7 @@
 baseURL = 'https://pcarlip.github.io/'
 languageCode = 'en-us'
 title = 'Peter Carlip'
-theme = 'hugo-arcana'
+theme = 'hugo-geekblog'
 
 [caches]
   [caches.images]
@@ -16,6 +16,20 @@ theme = 'hugo-arcana'
     [markup.goldmark.parser.attribute]
       block = true
       title = true
+    [markup.tableOfContents]
+      startLevel = 1
+      endLevel = 9
+
 
 [params]
   math = true
+
+  # Geekblog required configuration
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+disablePathToLower = true
+
+
+[taxonomies]
+  author = "authors"
+  tag = "tags"
