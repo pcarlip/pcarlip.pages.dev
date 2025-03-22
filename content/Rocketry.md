@@ -5,6 +5,7 @@ description: "UCSD Rocket Propulsion Lab"
 weight: 50
 ---
 
+## UCSD Rocket Propulsion Lab
 I was a member of
 [UCSD Rocket Propulsion Lab](https://www.rocketproplab.org/)
 for all 4 of my years at UCSD. During my first year, I took part in the New
