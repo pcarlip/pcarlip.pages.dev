@@ -1,0 +1,11 @@
+banner:
+  enable: false
+  image: "images/banner.jpg"
+  contents: "**Arcana:** _A responsive site template freebie by [HTML5 UP](https://html5up.net/)_"
+  button:
+    contents: "Learn Less"
+    url: "#"
+items:
+  - type: heading
+    heading: About Me
+    contents: I'm a Physical Oceanography graduate student at Oregon State University.
