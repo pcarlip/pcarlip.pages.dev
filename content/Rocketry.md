@@ -1,7 +1,6 @@
 ---
 title: "Rocketry"
 menu: main
-description: "UCSD Rocket Propulsion Lab"
 weight: 50
 ---
 
