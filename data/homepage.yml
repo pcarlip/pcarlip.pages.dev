@@ -8,4 +8,10 @@ banner:
 items:
   - type: heading
     heading: About Me
-    contents: I'm a Physical Oceanography graduate student at Oregon State University.
+    contents: >
+      I'm a Physical Oceanography graduate student at Oregon State University.
+      <img src="/images/headshot">
+-features:
+  - title: "About Me"
+    image: "/images/headshot.jpg"
+    description: "Description text here"
