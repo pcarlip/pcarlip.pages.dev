@@ -2,3 +2,7 @@ baseURL = 'https://pcarlip.github.io/'
 languageCode = 'en-us'
 title = 'Peter Carlip'
 theme = 'hugo-arcana'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
