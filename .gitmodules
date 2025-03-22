@@ -1,3 +1,6 @@
 [submodule "themes/hugo-arcana"]
 	path = themes/hugo-arcana
 	url = https://github.com/half-duplex/hugo-arcana
+[submodule "themes/themes/compose"]
+	path = themes/themes/compose
+	url = https://github.com/onweru/compose/
