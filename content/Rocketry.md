@@ -2,7 +2,7 @@
 title: "Rocketry"
 menu: main
 description: "UCSD Rocket Propulsion Lab"
-weight: 80
+weight: 50
 ---
 
 I was a member of

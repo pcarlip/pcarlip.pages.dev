@@ -2,7 +2,7 @@
 title: "Cell Signaling"
 menu: main
 description: "Stites Lab"
-weight: 80
+weight: 30
 ---
 
 ### Computational Models of Signaling Networks

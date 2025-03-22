@@ -2,7 +2,8 @@
 title: "Causal Sets"
 menu: main
 description: "Combinatorics Applied to Physics"
-weight: 80
+weight: 40
+math: true
 ---
 
 ### Kleitman-Rothschild Sets
@@ -20,7 +21,7 @@ arrangements. In
 [https://doi.org/10.1088/1361-6382/acc50c](Path Integral Suppression of 
 Badly Behaved Causal Sets), my collaborators and I show that Kleitman-Rothschild sets, 
 while common, have a negligible impact on the path integral, as the weight given by each 
-due to its action drops as 2<sup>-n<sup>2</sup></sup>. A followup work, 
+due to its action drops as \\(2^{-n^2}\\). A followup work, 
 [https://doi.org/10.1088/1361-6382/ad506e](The Einstein–Hilbert action for entropically 
 dominant causal sets), extends this result to other such layered sets.
 
