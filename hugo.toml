@@ -1,7 +1,7 @@
 baseURL = 'https://pcarlip.github.io/'
 languageCode = 'en-us'
 title = 'Peter Carlip'
-theme = 'hugo-arcana'
+theme = 'compose'
 
 [caches]
   [caches.images]
