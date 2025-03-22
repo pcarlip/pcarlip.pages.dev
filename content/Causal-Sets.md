@@ -18,12 +18,11 @@ order).
 This distribution of causal sets presents a problem, as the natural way to
 work with quantum gravity on these sets is a path integral across all possible
 arrangements. In
-[https://doi.org/10.1088/1361-6382/acc50c](Path Integral Suppression of 
-Badly Behaved Causal Sets), my collaborators and I show that Kleitman-Rothschild sets, 
+[Path Integral Suppression of Badly Behaved Causal Sets](https://doi.org/10.1088/1361-6382/acc50c), 
+my collaborators and I show that Kleitman-Rothschild sets, 
 while common, have a negligible impact on the path integral, as the weight given by each 
 due to its action drops as \\(2^{-n^2}\\). A followup work, 
-[https://doi.org/10.1088/1361-6382/ad506e](The Einstein–Hilbert action for entropically 
-dominant causal sets), extends this result to other such layered sets.
+[The Einstein–Hilbert action for entropically dominant causal sets](https://doi.org/10.1088/1361-6382/ad506e), extends this result to other such layered sets.
 
 The main body of the work, and my primary contribution to it, consists of
 combinatorics. The formula used for the action involves counting the number of

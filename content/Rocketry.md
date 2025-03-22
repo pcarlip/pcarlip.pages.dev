@@ -6,7 +6,7 @@ weight: 50
 ---
 
 I was a member of
-["https://www.rocketproplab.org/"](UCSD Rocket Propulsion Lab)
+[UCSD Rocket Propulsion Lab](https://www.rocketproplab.org/)
 for all 4 of my years at UCSD. During my first year, I took part in the New
 Member Project, learning the basic principles of rocketry by designing a
 small, solid-propellant model rocket. After that, I joined the Analysis team,
