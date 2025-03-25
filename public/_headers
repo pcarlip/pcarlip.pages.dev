@@ -1,4 +1,4 @@
 https://pcarlip.pages.dev/*
     X-Clacks-Overhead: GNU Terry Pratchett
-    Strict-Transport-Security: max-age=31536000; includeSubDomains
     X-Frame-Options: SAMEORIGIN
+    Content-Security-Policy: default-src https://pcarlip.pages.dev:*
