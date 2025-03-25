@@ -1,4 +1,4 @@
-baseURL = 'https://pcarlip.github.io/'
+baseURL = 'https://pcarlip.pages.dev/'
 languageCode = 'en-us'
 title = 'Peter Carlip'
 theme = 'compose'
