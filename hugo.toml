@@ -21,6 +21,7 @@ theme = 'compose'
   math = true
   #author = "Peter Carlip"
   enableCopyright = false
+  customCSS = ["/css/images.css"]
   [params.logo]
     lightMode = "images/Waves_AVE.png"
     darkMode = "images/Waves_AVE.png" 
@@ -36,3 +37,4 @@ global = false
   id = "Q40WQQX84U" # Application ID
   index = "compose" # Index name
   key = "da87401a458102ec6bbd6cc5e5cf8d95" # Search-Only API Key
+
