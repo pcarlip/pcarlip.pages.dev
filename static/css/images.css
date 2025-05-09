@@ -1,12 +1,12 @@
 .right {
     float: right;
-    max-width: 20%;
+    max-width: 30%;
     margin-left: 5px;
 }
 
 .left {
     float: left;
-    max-width: 20%;
+    max-width: 30%;
     margin-right: 20px;
 }
 
