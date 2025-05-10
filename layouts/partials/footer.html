@@ -1,21 +1,20 @@
-<footer class="footer">
-    <div class="container">
-        <div class="footer_inner">
-            {{ with .Site.Params.footer }}
-            <div class="footer_item">{{ .text | markdownify }}</div>
-            {{ end }}
-            <div class="footer_item">
-                <p>&copy; <span class="year">{{ now.Year }}</span> Peter Carlip</p>
-                <p>
-                    (Favicon and logo by
+<footer class="pt-2 pb-2">
+  <div class="wrap">
+    <p>
+      &copy; <span class="year">{{ now.Year }}</span> Peter Carlip
+    </p>
+    <p style="margin: 0px; padding: top 0px; padding: bottom 0px">
+                    (Created using the
+                    <a href="https://github.com/onweru/compose">Compose</a> theme by
+                    <a href="https://github.com/onweru">Weru</a>.
+                    Favicon and logo by
                     <a href="https://commons.wikimedia.org/wiki/File:Waves_AVE.png"
                         >AVE Waves</a
                     >,
                     <a href="https://creativecommons.org/licenses/by-sa/4.0/"
                         >CC-BY-SA 4.0</a
-                    >)
+                    >.)
                 </p>
-            </div>
-        </div>
-    </div>
+    <a href="#pagetop" id="toTop" title={{ T "to_top" }}></a>
+  </div>
 </footer>
