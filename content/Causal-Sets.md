@@ -6,6 +6,13 @@ layout: "simple"
 math: true
 ---
 
+{{<figure
+    src="images/kr.png"
+    alt="Kleitman-Rothschild set example"
+    class="right"
+    caption="An example of a Kleitman-Rothschild order, divisible into 3 distinct layers.">}}
+
+
 ### Kleitman-Rothschild Sets
 My published work deals with causal set theory, a proposal for the
 quantization of space-time. It can be shown that you can reconstruct important

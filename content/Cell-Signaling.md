@@ -5,7 +5,14 @@ weight: 30
 layout: "simple"
 ---
 
-### Computational Models of Signaling Networks
+### Differential Equation Models of Signaling Networks
+
+{{<figure
+    src="images/raf-diagram.png"
+    alt="Simplified activation pathway of Raf"
+    class="center"
+    caption="A cartoon of some of the protein-protein interactions involved in activating Raf.">}}
+
 
 My work immediately before joining OSU was as a postgraduate associate in the
 [Stites lab](https://www.stiteslab.org/) at the Yale School of
@@ -16,7 +23,7 @@ with tools such as pysb and BioNetGen.
 
 I focused on the activation mechanism of the Raf protein.
 Like many of the proteins in the MAPK pathway, Raf is involved in promoting
-cell proliferation, and is frequently mutated in cancer. Around 50% of
+cell proliferation and is frequently mutated in cancer. Around 50% of
 melanomas have BRaf mutations, for instance. Raf activation has a large number
 of known steps, but the order and importance of many of the steps is unclear.
 In my preprint 

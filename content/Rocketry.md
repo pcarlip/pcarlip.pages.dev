@@ -5,6 +5,12 @@ weight: 50
 layout: "simple"
 ---
 
+{{<figure
+    src="images/fin mesh.png"
+    alt="CFD mesh around rocket fins"
+    class="right"
+    caption="CFD mesh around rocket fins, used for aerodynamics simulations.">}}
+
 ## UCSD Rocket Propulsion Lab
 I was a member of
 [UCSD Rocket Propulsion Lab](https://www.rocketproplab.org/)
