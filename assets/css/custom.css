@@ -15,3 +15,11 @@
     margin: auto;
     text-align: center;
 }
+
+.mb-1 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
