@@ -1,0 +1,13 @@
+[[main]]
+    identifier = "appearance"
+    weight=90
+    [main.params]
+        action = "appearance"
+        icon = "sun"
+
+[[main]]
+    weight = 99
+    identifier = "search"
+    [main.params]
+        action = "search"
+        icon = "search"
