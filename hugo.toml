@@ -20,21 +20,10 @@ theme = 'congo'
 [params]
   math = true
   #author = "Peter Carlip"
-  enableCopyright = false
-  customCSS = ["/css/images.css"]
-  [params.logo]
-    lightMode = "images/Waves_AVE.png"
-    darkMode = "images/Waves_AVE.png" 
+  [params.header]
+    logo="images/Waves_AVE.png"
+    logoDark="images/Waves_AVE.png"
+    showTitle=false
+
 [outputs]
   home = ["HTML", "RSS"]
-
-# search
-[search]
-on = true
-global = false
-  [search.algolia]
-  enable = false # if false search will default to fusejs
-  id = "Q40WQQX84U" # Application ID
-  index = "compose" # Index name
-  key = "da87401a458102ec6bbd6cc5e5cf8d95" # Search-Only API Key
-
