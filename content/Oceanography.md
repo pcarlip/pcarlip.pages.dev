@@ -4,6 +4,8 @@ menu: main
 weight: 20
 ---
 
+### Turbulence and Structure Functions
+
 My current research focuses on ocean mixing and turbulence. My goal is to improve our 
 understanding of how energy and other flow properties move between scales. This is 
 important for ensuring the accuracy of large-scale ocean models, as they can't directly
