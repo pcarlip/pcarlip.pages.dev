@@ -1,40 +1,29 @@
 baseURL = 'https://pcarlip.pages.dev/'
 languageCode = 'en-us'
 title = 'Peter Carlip'
-theme = 'compose'
+theme = 'hextra'
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
 
 [markup]
-  defaultMarkdownHandler = 'goldmark'
   [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-  [markup.goldmark.parser]
-    [markup.goldmark.parser.attribute]
-      block = true
-      title = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)'], ['$','$']]  
 
 [params]
   math = true
   #author = "Peter Carlip"
-  enableCopyright = false
+  enableCopyright = true
   customCSS = ["/css/images.css"]
   [params.logo]
     lightMode = "images/Waves_AVE.png"
     darkMode = "images/Waves_AVE.png" 
 [outputs]
   home = ["HTML", "RSS","JSON"]
-
-# search
-[search]
-on = true
-global = false
-  [search.algolia]
-  enable = false # if false search will default to fusejs
-  id = "Q40WQQX84U" # Application ID
-  index = "compose" # Index name
-  key = "da87401a458102ec6bbd6cc5e5cf8d95" # Search-Only API Key
 
