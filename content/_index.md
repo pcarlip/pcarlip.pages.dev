@@ -26,5 +26,6 @@ You can find me at:
 * [{{< icon "github" >}} Github](https://github.com/pcarlip)
 * [{{< icon "linkedin" >}} LinkedIn](https://www.linkedin.com/in/peter-carlip-8409101aa/)
 
-
+Or contact me at:
+* [{{< icon "email">}} carlipp@oregonstate.edu](mailto:carlipp@oregonstate.edu)
 

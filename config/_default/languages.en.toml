@@ -18,6 +18,11 @@ copyright = "&copy; 2025 Peter Carlip. Favicon and logo by [AVE Waves](https://c
   image = "images/headshot.jpg"
   # headline = "I'm only human"
   # bio = "A little bit about you"
+  links = [
+    {email = "mailto:carlipp@oregonstate.edu"},
+    {github = "https://github.com/pcarlip"},
+    {linkedin = "https://www.linkedin.com/in/peter-carlip-8409101aa/"}
+  ]
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },

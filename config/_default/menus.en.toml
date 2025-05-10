@@ -11,12 +11,3 @@
     [main.params]
         action = "search"
         icon = "search"
-
-[[main]]
-    weight = 100
-    name = "GitHub"
-    url = "https://github.com/pcarlip"
-    [main.params]
-        icon = "github"
-        showName = false
-        target = "_blank"
