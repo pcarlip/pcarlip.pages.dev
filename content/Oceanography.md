@@ -2,6 +2,7 @@
 title: "Oceanography"
 menu: main
 weight: 20
+layout: "simple"
 ---
 
 ### Turbulence and Structure Functions

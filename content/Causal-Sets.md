@@ -2,6 +2,7 @@
 title: "Causal Sets"
 menu: main
 weight: 40
+layout: "simple"
 math: true
 ---
 

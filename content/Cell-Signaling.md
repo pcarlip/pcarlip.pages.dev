@@ -2,6 +2,7 @@
 title: "Cell Signaling"
 menu: main
 weight: 30
+layout: "simple"
 ---
 
 ### Computational Models of Signaling Networks
