@@ -24,6 +24,8 @@ theme = 'congo'
     logo="images/Waves_AVE.png"
     logoDark="images/Waves_AVE.png"
     showTitle=false
+  [params.footer]
+    showCopyright=true
 
 [outputs]
   home = ["HTML", "RSS"]
