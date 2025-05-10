@@ -1,7 +1,7 @@
 baseURL = 'https://pcarlip.pages.dev/'
 languageCode = 'en-us'
 title = 'Peter Carlip'
-theme = 'compose'
+theme = 'congo'
 
 [caches]
   [caches.images]
@@ -26,7 +26,7 @@ theme = 'compose'
     lightMode = "images/Waves_AVE.png"
     darkMode = "images/Waves_AVE.png" 
 [outputs]
-  home = ["HTML", "RSS","JSON"]
+  home = ["HTML", "RSS"]
 
 # search
 [search]

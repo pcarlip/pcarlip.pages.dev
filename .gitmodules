@@ -4,3 +4,7 @@
 [submodule "themes/compose"]
 	path = themes/compose
 	url = https://github.com/onweru/compose/
+[submodule "themes/congo"]
+	path = themes/congo
+	url = https://github.com/jpanther/congo.git
+	branch = stable
