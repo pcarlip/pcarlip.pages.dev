@@ -7,7 +7,7 @@ layout: "simple"
 
 {{<figure
     src="images/fin mesh.png"
-    alt="CFD mesh around rocket fins"
+    alt="A grid of colorful triangles, which become much smaller in an area shaped like rocket fins."
     class="right"
     caption="CFD mesh around rocket fins, used for aerodynamics simulations.">}}
 

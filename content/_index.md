@@ -6,7 +6,7 @@ weight: 10
 
 {{<figure
     src="images/headshot.jpg"
-    alt="Peter Carlip"
+    alt="Headshot of Peter Carlip, wearing a suit"
     class="right">}}
 
 ### About Me

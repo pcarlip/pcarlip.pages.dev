@@ -9,7 +9,7 @@ layout: "simple"
 
 {{<figure
     src="images/raf-diagram.png"
-    alt="Simplified activation pathway of Raf"
+    alt="A chemical diagram, representing different states of Raf and 14-3-3 through the positions of colored blobs. Arrows labeled with reaction constant names connect different states."
     class="center"
     caption="A cartoon of some of the protein-protein interactions involved in activating Raf.">}}
 
