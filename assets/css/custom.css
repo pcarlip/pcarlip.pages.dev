@@ -4,6 +4,12 @@
     margin-left: 5%;
 }
 
+.right-large {
+    float: right;
+    max-width: 40%;
+    margin-left: 5%;
+}
+
 .left {
     float: left;
     max-width: 25%;

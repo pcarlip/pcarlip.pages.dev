@@ -7,9 +7,9 @@ math: true
 ---
 
 {{<figure
-    src="images/kr.png"
+    src="images/kr-large.png"
     alt="A diagram with many points, divided into 3 horizontal layers, where each point is linked to several others in adjacent layers."
-    class="right"
+    class="right-large"
     caption="An example of a Kleitman-Rothschild order, divisible into 3 distinct layers.">}}
 
 
