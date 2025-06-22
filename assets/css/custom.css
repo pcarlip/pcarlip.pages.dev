@@ -10,13 +10,13 @@ figure.right-large {
     max-width: 40%;
 }
 
-.left {
+figure.left {
     float: left;
     max-width: 25%;
     margin-right: 5%;
 }
 
-.center {
+figure.center {
     display: block;
     margin: auto;
     text-align: center;
