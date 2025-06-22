@@ -8,9 +8,9 @@ layout: "simple"
 ### Differential Equation Models of Signaling Networks
 
 {{<figure
-    src="images/raf-diagram.png"
+    src="images/raf-diagram.svg"
     alt="A chemical diagram, representing different states of Raf and 14-3-3 through the positions of colored blobs. Arrows labeled with reaction constant names connect different states."
-    class="center"
+    class="center vector"
     caption="A cartoon of some of the protein-protein interactions involved in activating Raf.">}}
 
 
