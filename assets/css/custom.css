@@ -1,13 +1,13 @@
-.right {
+figure.right {
     float: right;
     max-width: 25%;
     margin-left: 5%;
 }
 
-.right-large {
+figure.right-large {
     float: right;
-    max-width: 40%;
     margin-left: 5%;
+    max-width: 40%;
 }
 
 .left {
