@@ -15,7 +15,8 @@ I'm a Physical Oceanography PhD student at Oregon State University, where I'm ad
 by [Dr. Brodie Pearson](https://brodiepearson.github.io/). I am studying [computational 
 modeling and analysis of ocean mixing and turbulence]({{% ref "/Oceanography"%}}). 
 
-Before I started grad school, I recieved my BS in Physics from UC Sand Diego. I worked on 
+Before I started grad school, I recieved my BS in Physics from UC San Diego. I
+also worked on 
 [ODE models of protein interactions]({{% ref "/Cell-signaling"%}}) at the 
 [Stites Lab](https://www.stiteslab.org/) at Yale,
 [combinatorics related to quantum gravity]({{% ref "/Causal-sets"%}}), 
