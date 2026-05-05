@@ -8,13 +8,13 @@ math: true
 
 {{<figure
     src="images/kr-large.png"
-    alt="A diagram with many points, divided into 3 horizontal layers, where each point is linked to several others in adjacent layers."
+    alt="A diagram with about a dozen points, divided into 3 horizontal layers, where each point is linked to several others in adjacent layers."
     class="right-large"
     caption="An example of a Kleitman-Rothschild order, divisible into 3 distinct layers.">}}
 
 
 ### Kleitman-Rothschild Sets
-My published work deals with causal set theory, a proposal for the
+My first published work deals with causal set theory, a proposal for the
 quantization of space-time. If you randomly sprinkle a large number of points in space and 
 time, you can reconstruct important features of the space-time manifold just from the 
 causal connections between the points (i.e., which points are close enough in space or 
