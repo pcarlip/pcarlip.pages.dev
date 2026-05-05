@@ -17,17 +17,19 @@ layout: "simple"
 Immediately before joining OSU, I worked as a postgraduate associate in the
 [Stites lab](https://www.stiteslab.org/) at the Yale School of
 Medicine. I focused on modeling cell signaling networks,
-particularly aspects of the Ras-MAPK pathway. I use ODE and equilibrium
+particularly aspects of the Ras-MAPK pathway. I used ODE and equilibrium
 models, primarily written in Python and Matlab, as well as rule-based models
-with tools such as pysb and BioNetGen.
+with tools such as pysb and BioNetGen. I also worked with the analytic chemical equations
+describing the equilibrium states, which was the main focus of my published work from 
+the lab.
 
-I focused on the activation mechanism of the Raf protein.
+Much of my work was on the activation mechanism of the Raf protein.
 Like many of the proteins in the MAPK pathway, Raf is involved in promoting
 cell proliferation and is frequently mutated in cancer. For instance, around 50% of
 melanomas have mutations in BRaf, one of three Raf proteins. 
 Raf activation has a large number of known steps, but the order and importance of many of 
-the steps is unclear. In my preprint 
-[Analysis of the Modulation of RAF Signaling by 14-3-3 Proteins](https://www.biorxiv.org/content/10.1101/2024.07.16.603736v1) (currently under review), 
+the steps is unclear. In my recent article 
+[Analysis of the Modulation of RAF Signaling by 14-3-3 Proteins](https://doi.org/10.1007/s11538-026-01634-2), 
 I argue that the binding between Raf and 14-3-3 (a protein which can keep Raf either active
 or inactive depending on its binding configuration) can be approximated as a single binding
 event rather than modeling two distinct steps of binding. This can be shown by comparing 
